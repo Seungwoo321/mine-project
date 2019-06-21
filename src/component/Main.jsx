@@ -32,7 +32,7 @@ class Main extends Component {
     to,
     method,
     params = {},
-    networkId = "0x3",
+    networkId = "0x1",
     stepLimit = "0x13d620",
     value = "0x0"
   } = {}) => {
